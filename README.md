@@ -1,7 +1,7 @@
 # 🚀 Azure AI-102 Certification Hands-on Labs
 
 ## 📌 Overview
-This repository provides a comprehensive collection of resources for the **Microsoft Azure AI-102 Certification** course, including hands-on labs, theoretical concepts, and practical implementation details. It is designed to equip learners with the skills and knowledge needed to design and implement AI solutions on Azure.
+This repository provides a comprehensive collection of resources for the **Microsoft Azure AI-102 Certification** course, including hands-on labs, theoretical concepts, and practical implementation details. It is designed to equip learners with the skills and knowledge to design and implement AI solutions on Azure.
 
 ## 🎯 Learning Objectives
 By using this repository, you will:
@@ -76,7 +76,10 @@ Before you begin, make sure you have:
 ## 🔗 Additional Resources
 - [Microsoft Learn AI-102 Path](https://learn.microsoft.com/en-us/certifications/exams/ai-102/)
 - [Azure AI Services Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/)
-- [GitHub - Azure AI Samples](https://github.com/Azure/AI)
+- [Microsoft Official Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102)
+- [Coursera – Exam Prep: AI-102](https://www.coursera.org/learn/ai-102-microsoft-azure-ai-engineer-associate-course)
+- [AI-102 Exam Prep Guide](https://azuretechinsider.com/ai-102-exam-certification-prep-questions/)
+- [Exam Readiness Zone – AI-102 Preparation](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-ai-102-plan-and-manage-an-azure-ai-solution)
 
 ## 🎓 Certification Tips
 - Regularly review official Microsoft documentation.
